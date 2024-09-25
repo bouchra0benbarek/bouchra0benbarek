@@ -11,7 +11,7 @@ My name is Bouchra, a computer science student at Gustave Eiffel university. Her
 - Creating products with excellent UI/UX
 
 📫 How to reach me: 
-- Find me on LinkedIn: [Link Text] (https://www.linkedin.com/in/bouchra-benbarek-752bb5151/)
+- Find me on LinkedIn: [Bouchra BENBAREK] https://www.linkedin.com/in/bouchra-benbarek-752bb5151/
 <!--
 **bouchra0benbarek/bouchra0benbarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
