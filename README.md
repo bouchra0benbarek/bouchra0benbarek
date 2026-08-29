@@ -2,10 +2,9 @@
 My name is Bouchra, a Software Engineer. Here some info about me!
 
 ⚡ Work experience:
-- Full-time Software Engineer at Natixis Algérie: Full-stack development on the Software and development team [Algiers, 2023-2024]
-- Full-time Software Engineer at Inkidia: Full-stack development on the Software and development team [Algiers, 2022-2023]
-- Software Engineer intern at a government-owned company: Full-stack development [Algiers, 2021-2022]
-- Frontend Developer intern at Algeria Partners: Frontend development [Remote, 2020]
+- Full-time Software Engineer at Natixis Algérie [Algiers, 2023-2024]
+- Full-time Software Engineer at Inkidia [Algiers, 2022-2023]
+- Software Engineer intern at Algeria Partners and a government-owned company [Remote/Algiers, 2020/2021-2022]
   
 🔭 Interests:
 - Creating products with excellent UI/UX
