@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Bouchra, a computer science student at Gustave Eiffel university. Here some info about me!
+My name is Bouchra, a software engineer. Here some info about me!
 
 ⚡ Work experience:
 - Full-time Software Engineer at Natixis Algérie: Full-stack development on the Software and development team [Algiers, 2023-2024]
